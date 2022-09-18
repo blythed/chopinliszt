@@ -1,1 +1,5 @@
 # chopinliszt
+
+```
+python main.py
+```
