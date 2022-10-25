@@ -1,31 +1,17 @@
 import click
+import numpy
 import os
 import pandas
 import warnings
+
 
 warnings.filterwarnings('ignore')
 
 
 if __name__ == '__main__':
     df = pandas.read_csv('data.csv', sep=';')
-    amount = []
-    unit = []
-    for a in df.amount:
-        a = a.split(' ')
-        if len(a) == 1:
-            amount.append(a[0])
-            unit.append(None)
-        else:
-            amount.append(a[0])
-            unit.append(a[1])
-    new_amount = []
-    for x in amount:
-        try:
-            new_amount.append(int(x))
-        except ValueError:
-            new_amount.append(float(x))
-    df['amount'] = new_amount
-    df['unit'] = unit
+    df_ing = pandas.read_csv('ingredients.csv', sep=';')
+    df = df.merge(df_ing, on='ingredient')
     recipes = df['recipe'].unique().tolist()
 
     print('Here are your recipes:')
@@ -34,31 +20,29 @@ if __name__ == '__main__':
         print(f'({i + 1}) {r}')
     print('')
     print('Please specify which recipe(s) you\'d like. ', end='')
-    print('For example "1x2 3x1" for two times the first recipe and one times the third.')
+    print('For example "1 3" for the first and 3rd')
     chosen = input(':- ')
-    pattern = '([0-9]+)x([0-9]+)'
-    recipe_no = []
-    quantity = []
-    for x in chosen.strip().split(' '):
-        n, q = x.split('x')
-        recipe_no.append(int(n))
-        quantity.append(int(q))
-    chosen_recipes = [recipes[i - 1] for i in recipe_no]
+    chosen_recipes = [recipes[int(x) - 1] for x in chosen.split()]
 
-    print('You chose these recipes:')
-    print('')
-    print('\n'.join(chosen_recipes))
-    print('')
-    sub = df[df.recipe.isin(chosen_recipes)]
-    for i, r in enumerate(chosen_recipes):
-        sub['amount'][sub['recipe'] == r] *= quantity[i]
-
-    to_shop = sub.groupby('ingredient').agg({'amount': 'sum', 'store': 'max', 'type': 'max', 'unit': 'max'})
-    to_shop = to_shop.reset_index()
-
-    print('Here\'s your shopping list...')
-    print('')
     lines = []
+    lines.append('You chose these recipes:')
+    lines.append('')
+    lines.extend(chosen_recipes)
+    lines.append('')
+    sub = df[df.recipe.isin(chosen_recipes) & numpy.logical_not(df.supply)][['amount', 'ingredient']]
+    sub = sub.groupby('ingredient').agg({'amount': 'sum'})
+    sub.reset_index()
+    to_shop = sub.merge(df_ing, on='ingredient')
+    to_shop = to_shop[['ingredient', 'store', 'type', 'unit', 'amount', 'url']]
+    to_shop = to_shop.reset_index()
+    supplies = df_ing[df_ing.supply]
+    supplies['amount'] = supplies['minimum']
+    supplies = supplies[['ingredient', 'store', 'type', 'unit', 'amount', 'url']]
+    to_shop = pandas.concat([to_shop, supplies])
+    to_shop['store'][numpy.logical_not(to_shop.url.isna())] = 'online'
+
+    lines.append('Here\'s your shopping list...')
+    lines.append('')
     stores = to_shop.groupby('store')
     for s in stores:
         lines.append('-' * 20)
@@ -74,6 +58,8 @@ if __name__ == '__main__':
                     lines.append(f'    {row["amount"]} {row["ingredient"]}')
                 else:
                     lines.append(f'    {row["amount"]} {row["unit"]} {row["ingredient"]}')
+                if s[0] == 'online':
+                    lines[-1] = lines[-1].ljust(50) + row['url']
 
         lines.append('')
 

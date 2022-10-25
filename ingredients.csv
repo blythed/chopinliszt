@@ -1,0 +1,124 @@
+ingredient;unit;store;type;supply;minimum;url
+gluten free pasta;g;regular;dry;FALSE;;https://shop.rewe.de/p/barilla-pasta-nudeln-spaghetti-glutenfrei-400g/2167566
+garlic cloves;;regular;veg;FALSE;;https://shop.rewe.de/p/knoblauch/3363970
+onions;;regular;veg;FALSE;;https://shop.rewe.de/p/speisezwiebeln-1kg-netz/1041138
+tomato sauce;jar;regular;condiments;FALSE;;https://shop.rewe.de/p/oro-di-parma-passierte-tomaten-400g/5521084
+vegan sausages;pack;regular;meat;FALSE;;https://shop.rewe.de/p/greenforce-cevapcici-vegan-180g/8678106
+chili;;regular;veg;FALSE;;https://shop.rewe.de/p/chili-mix-tricolor-80g/8229761
+cardamom pods;;asia;spice;FALSE;;
+pistachio nuts;g;regular;snack;FALSE;;https://shop.rewe.de/p/seeberger-kalifornische-pistazien-gesalzen-150g/2458575
+limes;;regular;veg;FALSE;;https://shop.rewe.de/p/limette/3169120
+avocados;;regular;veg;FALSE;;
+basil;handful;asia;veg;FALSE;;
+coriander;handful;asia;veg;FALSE;;
+red lentils ;cup;regular;dry;FALSE;;https://shop.rewe.de/p/mueller-s-muehle-rote-linsen-500g/3577287
+soy sauce glutenfree;ml;bio;condiments;FALSE;;
+maple syrup;ml;bio;baking;FALSE;;
+ginger;thumb;regular;veg;FALSE;;https://shop.rewe.de/p/ingwer/1218820
+curry paste ;tbsp;asia;spice;FALSE;;
+coconut milk;can;regular;cans;FALSE;;https://shop.rewe.de/p/biozentrale-bio-kokosmilch-400ml/2268790
+beef mince;g;bio;meat;FALSE;;https://shop.rewe.de/p/rewe-bio-rinderhackfleisch-400g/1287072
+tomatoes;;regular;veg;FALSE;;
+coconut yoghurt ;ml;bio;dairy;FALSE;;https://shop.rewe.de/p/andros-so-good-so-veggie-joghurt-alternative-natur-400g/8383835
+cumin seeds;tsp;asia;spice;FALSE;;
+kidney beans;can;regular;cans;FALSE;;https://shop.rewe.de/p/rewe-beste-wahl-kidney-bohnen-212ml/7254096
+mexican spices;pack;regular;dry;FALSE;;https://shop.rewe.de/p/just-spices-chili-con-carne-gewuerz-50g/8174554
+lettuce;head;regular;dry;FALSE;;https://shop.rewe.de/p/rewe-beste-wahl-romana-salatherzen-3-stueck/1043421
+flakes;g;bio;dry;TRUE;500;https://shop.rewe.de/p/alnavit-bio-cornflakes-250g/2523076
+dates;;regular;snacks;TRUE;20;https://shop.rewe.de/p/seeberger-datteln-entsteint-200g/1234803
+pea milk;ml;regular;dairy;TRUE;1000;https://shop.rewe.de/p/vly-milchalternative-ungesuesst-aus-erbsenprotein-1l/8431499
+raspberries;handful;regular;veg;TRUE;7;https://shop.rewe.de/p/himbeere-125g/8448551
+dried quinoa;g;bio;dry;TRUE;300;
+toast;pieces;bio;dry;TRUE;30;
+apple;;regular;veg;TRUE;7;https://shop.rewe.de/p/kanzi-apfel-nicoter-1kg/8146226
+orange juice;ml;regular;drinks;TRUE;500;https://shop.rewe.de/p/rewe-beste-wahl-orangensaft-mit-fruchtfleisch-1l/8626551
+tea;bag;bio;drinks;TRUE;14;
+chips;g;regular;snacks;TRUE;500;https://shop.rewe.de/p/funny-frisch-linsenchips-sour-cream-style-90g/7836741
+hummus;g;regular;snacks;TRUE;500;https://shop.rewe.de/p/obela-hummus-pinienkerne-175g/3343358
+cashews;g;regular;snacks;TRUE;500;https://shop.rewe.de/p/seeberger-cashewkerne-200g/4744810
+corn cakes;pack;regular;snacks;TRUE;1;https://shop.rewe.de/p/biozentrale-bio-maiswaffeln-120g/1051596
+peanut butter;g;bio;dry;TRUE;500;
+tortilla chips;g;regular;snacks;TRUE;300;https://shop.rewe.de/p/doritos-paprika-110g/8822160
+tortilla dip;pack;regular;snacks;TRUE;1;https://shop.rewe.de/p/chio-dip-mild-salsa-200ml/7838071
+figs;g;regular;snacks;TRUE;500;https://shop.rewe.de/p/seeberger-delikatess-feigen-200g/5151325
+dried apricots;g;regular;snacks;TRUE;500;https://shop.rewe.de/p/seeberger-aprikosen-200g/4745507
+chocolate;g;regular;snacks;TRUE;500;https://shop.rewe.de/p/gepa-bio-cardamom-100g/806158
+oranges;;regular;veg;TRUE;5;https://shop.rewe.de/p/saftorangen-unbehandelt/7948200
+pears;;regular;veg;TRUE;5;https://shop.rewe.de/p/birne-abate-fetel/5800
+eggs;pack;regular;dairy;TRUE;1;https://shop.rewe.de/p/haehnlein-bio-eier-6-stueck/2062908
+jam;pack;regular;condiments;TRUE;1;https://shop.rewe.de/p/chivers-english-orange-marmelade-340g/324930
+cheese raw milk;g;bio;dairy;TRUE;500;
+kimchi;g;bio;dairy;TRUE;500;
+olive oil;ml;regular;condiments;TRUE;500;https://shop.rewe.de/p/rewe-beste-wahl-olivenoel-raffiniert-500ml/7288865
+ras el hanout;tbsp;regular;spice;FALSE;;https://shop.rewe.de/p/just-spices-ras-el-hanout-50g/2454803
+sun dried tomatoes;;regular;cans;FALSE;;https://shop.rewe.de/p/rewe-bio-getrocknete-tomaten-180g/8470738
+aubergine;;regular;veg;FALSE;;https://shop.rewe.de/p/aubergine/8514957
+courgette;;regular;veg;FALSE;;https://shop.rewe.de/p/zucchini-gruen/482161
+red onion;;regular;veg;FALSE;;https://shop.rewe.de/p/rewe-bio-zwiebeln-rot-300g-netz/1311281
+carrots;;bio;veg;FALSE;;
+cherry tomatoes;;regular;veg;FALSE;;https://shop.rewe.de/p/bio-tomate-cherry-mini/8038985
+red pepper;;regular;veg;FALSE;;https://shop.rewe.de/p/rewe-bio-paprika-rot/8015318
+yellow pepper;;regular;veg;FALSE;;https://shop.rewe.de/p/rewe-bio-paprika-rot/8015318
+quinoa ;g;regular;dry;TRUE;300;https://shop.rewe.de/p/davert-bio-weisser-quinoa-200g/2127455
+lemon;;regular;veg;FALSE;;https://shop.rewe.de/p/rewe-bio-zitrone/43657
+fresh mint;bunch;regular;veg;FALSE;;https://shop.rewe.de/p/minze-15g-schale/7142566
+kreuzkummel;tbsp;regular;spice;FALSE;;https://shop.rewe.de/p/ostmann-kreuzkuemmel-gemahlen-35g/4246780
+ground cinnamon;tbsp;regular;spice;FALSE;;https://shop.rewe.de/p/ostmann-zimt-gemahlen-30g/4259750
+chick peas;can;regular;cans;FALSE;;https://shop.rewe.de/p/rewe-bio-kichererbsen-220g/7055914
+saffron;tsp;regular;spice;FALSE;;https://shop.rewe.de/p/safranfaeden/8005211
+turmeric;tbsp;regular;spice;FALSE;;https://shop.rewe.de/p/ostmann-kurkuma-gemahlen-35g/4367960
+chicken stock;tsp;regular;dry;FALSE;;https://shop.rewe.de/p/maggi-huehner-bruehe-fuer-4l/8478499
+honey;tbsp;regular;condiments;FALSE;;https://shop.rewe.de/p/rewe-bio-bluetenhonig-350g/7226966
+parsley;bunch;regular;veg;FALSE;;https://shop.rewe.de/p/petersilie-glatt-30g-schale/1045885
+cashew butter;tsp;regular;dry;TRUE;250;https://shop.rewe.de/p/davert-bio-cashewmus-250g/8594443
+chicken breasts;;bio;meat;FALSE;;https://shop.rewe.de/p/nature-respect-haehnchenbrustfilet-2-stueck/2207025
+sweet potatoes;;regular;veg;FALSE;;https://shop.rewe.de/p/suesskartoffel/475963
+broccoli;head;regular;veg;FALSE;;https://shop.rewe.de/p/rewe-bio-broccoli/2245231
+chicken thighs;;bio;meat;FALSE;;https://shop.rewe.de/p/rewe-bio-haehnchenschenkel/1267731
+new potatoes;;regular;veg;FALSE;;https://shop.rewe.de/p/kartoffeln-drillinge-festkochend-1kg/2484343
+tomato puree;tbsp;regular;condiments;FALSE;;https://shop.rewe.de/p/oro-di-parma-tomatenmark-3fach-konzentriert-200g/439975
+mustard;tsp;regular;condiments;FALSE;;https://shop.rewe.de/p/maille-dijon-senf-original-200ml/8075620
+ground ginger;tsp;regular;spice;FALSE;;https://shop.rewe.de/p/ostmann-ingwer-gemahlen-30g/4247850
+red wine;ml;regular;drinks;FALSE;;https://shop.rewe.de/p/ostmann-ingwer-gemahlen-30g/4247850
+salmon;pieces;regular;meat;FALSE;;https://shop.rewe.de/p/deutsche-see-lachsfilet-250g/8437260
+chinese five spice;tbsp;asia;spice;FALSE;;
+spring onions;;bio;veg;FALSE;;
+sugar snap peas;g;regular;veg;FALSE;;
+rice noodles;g;regular;dry;FALSE;;https://shop.rewe.de/p/bamboo-garden-reisnudeln-guai-thiau-250g/8110546
+tahini;tbsp;regular;condiments;FALSE;;https://shop.rewe.de/p/biozentrale-bio-tahin-sesammus-250g/2823723
+bedda cheese;pieces;regular;dairy;TRUE;10;https://shop.rewe.de/p/violife-gouda-geschmack-scheiben-140g/7968593
+becel spread;g;regular;dairy;TRUE;300;https://shop.rewe.de/p/becel-classic-omega-3-225g/8833548
+beyond meat burger;;regular;frozen;FALSE;;https://shop.rewe.de/p/beyond-meat-beyond-burger-plant-based-226g/7815185
+fries;pack;regular;frozen;FALSE;;https://shop.rewe.de/p/rewe-bio-pommes-frites-750g/198686
+balsamico;ml;regular;condiments;TRUE;200;https://shop.rewe.de/p/laselva-acetobalsamico-dimodena-igp-500ml/GLPEWORYL
+kale;pieces;bio;veg;FALSE;;
+white wine vinegar;ml;regular;condiments;FALSE;;https://shop.rewe.de/p/kuehne-weisswein-essig-500ml/326135
+nutritional yeast;g;bio;dry;FALSE;;
+pumpkin;;regular;veg;FALSE;;https://shop.rewe.de/p/kuerbis-hokkaido/3399567
+nutmeg;tsp;regular;spice;FALSE;;https://shop.rewe.de/p/ostmann-muskatnuss-gemahlen-35g/4248341
+veggie stock;tsp;regular;dry;FALSE;;https://shop.rewe.de/p/maggi-gemuese-bruehe-fuer-7l/7973498
+shallot;;regular;veg;FALSE;;https://shop.rewe.de/p/schalotten-250g-netz/1041140
+black beans;can;regular;cans;FALSE;;https://shop.rewe.de/p/davert-schwarze-bohnen-bio-400g/7262243
+celery;pieces;regular;veg;FALSE;;
+vegan feta;g;regular;dairy;FALSE;;https://shop.rewe.de/p/bedda-hirte-block-vegan-150g/8435213
+cauliflower;0.5;regular;veg;FALSE;;
+mustard seeds;tsp;asia;spice;FALSE;;
+fenugreek seeds;tsp;regular;spice;FALSE;;
+curry leaves;bunch;asia;spice;FALSE;;
+pineapple chunks;can;regular;cans;FALSE;;https://shop.rewe.de/p/rewe-beste-wahl-ananasstuecke-142g/1201873
+rice;g;regular;dry;TRUE;100;https://shop.rewe.de/p/oryza-himalaya-basmati-1kg/483958
+toilet paper;pack;regular;supplies;TRUE;1;https://shop.rewe.de/p/danke-toilettenpapier-3-lagig-aus-100-recycling-papier-8x150-blatt/5001285
+washing machine liquid;pack;regular;supplies;TRUE;1;https://shop.rewe.de/p/frosch-universal-waschmittel-1-8l-24wl/8749448
+cleaning liquid frosch;pack;regular;supplies;TRUE;1;https://shop.rewe.de/p/frosch-lavendel-universal-reiniger-750ml/698818
+toothpaste;pack;regular;supplies;TRUE;1;https://shop.rewe.de/p/colgate-total-zahnpasta-original-75ml/2226666
+diapers;pack;regular;supplies;TRUE;2;https://shop.rewe.de/p/pampers-premium-protection-gr-2-4-8kg/8686851
+mix gf floor;pack;regular;baking;TRUE;1;https://shop.rewe.de/p/rewe-frei-von-mehlmischung-1kg/1291820
+apple cider vinegar;ml;regular;condiments;FALSE;;https://shop.rewe.de/p/hoehl-bio-ess-apfelessig-500ml/3553647
+sugar;g;regular;baking;FALSE;;https://shop.rewe.de/p/rewe-bio-rohrohrzucker-500g/8047823
+salt ;g;regular;condiments;FALSE;;https://shop.rewe.de/p/bad-reichenhaller-jodsalz-mit-fluorid-folsaeure-500g/3112195
+coconut fat;g;bio;condiments;FALSE;;https://shop.rewe.de/p/bio-asia-organic-coconut-oil-250ml/2749251
+potato starch;g;regular;baking;FALSE;;https://shop.rewe.de/p/kuechenmeister-kartoffelmehl-500g/6391559
+buckwheat flour ;cup;bio;baking;FALSE;;
+blueberries;handful;regular;veg;FALSE;14;https://shop.rewe.de/p/bio-heidelbeere-125g/2023967
+baking powder;g;regular;baking;FALSE;;https://shop.rewe.de/p/ruf-unser-natron-backsoda-50g/8576606
+natron ;g;regular;baking;FALSE;;https://shop.rewe.de/p/ruf-unser-natron-backsoda-50g/8576606

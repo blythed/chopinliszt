@@ -1,64 +1,181 @@
-recipe;ingredient;amount;store;type
-red pasta;gluten free pasta;300 g;regular;dry
-red pasta;garlic cloves;3;regular;veg
-red pasta;onions;1;regular;veg
-red pasta;tomato sauce;1 jar;regular;sauce
-red pasta;vegan sausages;1 pack;regular;meat
-red pasta;chili;1;regular;veg
-green pasta;gluten free pasta;300 g;regular;dry
-green pasta;cardamom pods;20;regular;spice
-green pasta;pistachio nuts;100 g;regular;snack
-green pasta;limes;2;regular;veg
-green pasta;avocados;1;regular;veg
-green pasta;basil;1 handful;regular;veg
-green pasta;coriander;1 handful;regular;veg
-dal;red lentils ;1 cup;regular;dry
-dal;onions;1;regular;veg
-dal;soy sauce glutenfree;50 ml;bio;sauce
-dal;maple syrup;50 ml;bio;baking
-dal;garlic cloves;2;regular;veg
-dal;ginger;1 thumb;regular;veg
-dal;curry paste ;1 tbsp;regular;spice
-taco salad;beef mince;400 g;bio;meat
-taco salad;onions;1;regular;veg
-taco salad;tomatoes;2;regular;veg
-taco salad;coconut yoghurt ;250 ml;bio;dairy
-taco salad;cumin seeds;2 tsp;regular;spice
-taco salad;kidney beans;1 can;regular;cans
-taco salad;mexican spices;1 pack;regular;dry
-taco salad;lettuce;1 head;regular;dry
-cereal breakfast;buckwheat flakes;100 g;bio;dry
-cereal breakfast;dates;3;;dry
-cereal breakfast;pea milk;100 ml;regular;dairy
-cereal breakfast;berries;1 handful;regular;veg
-cereal breakfast;dried quinoa;30 g;bio;dry
-cereal breakfast;toast;2 pieces;bio;dry
-breakfast drinks;orange juice;100 ml;regular;drinks
-breakfast drinks;tea;1 bag;bio;drinks
-snacks;chips;50 g;regular;snacks
-snacks;hummus;50 g;regular;snacks
-snacks;nuts;50 g;regular;snacks
-egg breakfast;eggs;1;regular;dairy
-egg breakfast;jam;2 dsp;regular;dry
-egg breakfast;cheese raw milk;50 g;regular;dairy
-egg breakfast;hummus;50 g;regular;snacks
-egg breakfast;toast;3 pieces;bio;dry
-vegetable tajine;garlic cloves;4;regular;veg
-vegetable tajine;ginger;1 thumb;regular;veg
-vegetable tajine;olive oil;150 ml;regular;condiments
-vegetable tajine;ras el hanout;1 tbsp;regular;spice
-vegetable tajine;sun dried tomatoes;5;regular;cans
-vegetable tajine;aubergine;1;regular;veg
-vegetable tajine;courgette;1;regular;veg
-vegetable tajine;red onion;1;regular;veg
-vegetable tajine;carrots;2;regular;veg
-vegetable tajine;cherry tomatoes;10;regular;veg
-vegetable tajine;red pepper;1;regular;veg
-vegetable tajine;yellow pepper;1;regular;veg
-vegetable tajine;quinoa ;300 g;regular;dry
-vegetable tajine;dried apricots;100 g;regular;snacks
-vegetable tajine;lemon;1;regular;veg
-vegetable tajine;fresh mint;1 bunch;regular;veg
-vegetable tajine;fresh parsley;1 bunch;regular;veg
-vegetable tajine;kreuzkummel;1 tbsp;regular;spice
-vegetable tajine;ground cinnamon;0.5 tbsp;regular;spice
+recipe;ingredient;amount
+red pasta;gluten free pasta;300
+red pasta;garlic cloves;3
+red pasta;onions;1
+red pasta;tomato sauce;1
+red pasta;vegan sausages;1
+red pasta;chili;1
+green pasta;gluten free pasta;300
+green pasta;cardamom pods;20
+green pasta;pistachio nuts;100
+green pasta;limes;2
+green pasta;avocados;1
+green pasta;basil;1
+green pasta;coriander;1
+dal;red lentils ;1
+dal;onions;1
+dal;soy sauce glutenfree;50
+dal;maple syrup;50
+dal;garlic cloves;2
+dal;ginger;1
+dal;curry paste ;1
+dal;coconut milk;2
+taco salad;beef mince;400
+taco salad;onions;1
+taco salad;tomatoes;2
+taco salad;coconut yoghurt ;250
+taco salad;cumin seeds;2
+taco salad;kidney beans;1
+taco salad;mexican spices;1
+taco salad;lettuce;1
+vegetable tajine;garlic cloves;4
+vegetable tajine;ginger;1
+vegetable tajine;olive oil;150
+vegetable tajine;ras el hanout;1
+vegetable tajine;sun dried tomatoes;5
+vegetable tajine;aubergine;1
+vegetable tajine;courgette;1
+vegetable tajine;red onion;1
+vegetable tajine;carrots;2
+vegetable tajine;cherry tomatoes;10
+vegetable tajine;red pepper;1
+vegetable tajine;yellow pepper;1
+vegetable tajine;quinoa ;300
+vegetable tajine;dried apricots;100
+vegetable tajine;lemon;1
+vegetable tajine;fresh mint;1
+vegetable tajine;fresh parsley;1
+vegetable tajine;kreuzkummel;1
+vegetable tajine;ground cinnamon;0.5
+vegetable tajine;coconut yoghurt ;250
+vegetable tajine;chick peas;1
+vegetable tajine;saffron;1
+lamb tajine;ginger;2
+lamb tajine;turmeric;1
+lamb tajine;ground cinnamon;2
+lamb tajine;onions;2
+lamb tajine;olive oil;100
+lamb tajine;tomato sauce;2
+lamb tajine;dried apricots;150
+lamb tajine;dates;4
+lamb tajine;saffron;1
+lamb tajine;chicken stock;3
+lamb tajine;honey;1
+lamb tajine;coriander;1
+lamb tajine;parsley;1
+garlic chicken;chicken breasts;2
+garlic chicken;sweet potatoes;2
+garlic chicken;veg butter;100
+garlic chicken;garlic cloves;3
+garlic chicken;parsley;0.5
+garlic chicken;broccoli;1
+garlic chicken;lemon;2
+barbecue chicken;chicken thighs;2
+barbecue chicken;new potatoes;10
+barbecue chicken;soy sauce glutenfree;100
+barbecue chicken;maple syrup;50
+barbecue chicken;tomato puree;2
+barbecue chicken;mustard;2
+barbecue chicken;ground ginger;2
+barbecue chicken;red wine;100
+barbecue chicken;lettuce;1
+asian salmon jamie oliver;salmon;2
+asian salmon jamie oliver;ginger;1
+asian salmon jamie oliver;soy sauce glutenfree;50
+asian salmon jamie oliver;garlic cloves;2
+asian salmon jamie oliver;red onion;2
+asian salmon jamie oliver;chili;1
+asian salmon jamie oliver;limes;2
+asian salmon jamie oliver;chinese five spice;1
+asian salmon jamie oliver;spring onions;4
+asian salmon jamie oliver;chicken stock;2
+asian salmon jamie oliver;sugar snap peas;200
+asian salmon jamie oliver;rice noodles;200
+baked veg;sweet potatoes;2
+baked veg;aubergine;1
+baked veg;courgette;1
+baked veg;carrots;2
+baked veg;quinoa ;1
+baked veg;tahini;1
+baked veg;lemon;1
+baked veg;maple syrup;50
+vegan burger night;beyond meat burger;2
+vegan burger night;fries;1
+vegan burger night;lettuce;1
+vegan burger night;olive oil;50
+vegan burger night;balsamico;30
+rich roll dreamy green bowl;kale;6
+rich roll dreamy green bowl;chick peas;1
+rich roll dreamy green bowl;peanut butter;100
+rich roll dreamy green bowl;white wine vinegar;50
+rich roll dreamy green bowl;soy sauce glutenfree;50
+rich roll dreamy green bowl;garlic cloves;1
+rich roll dreamy green bowl;ginger;1
+pasta alfredo;gluten free pasta;250
+pasta alfredo;onions;1
+pasta alfredo;chicken stock;2
+pasta alfredo;nutritional yeast;100
+pasta alfredo;cashews;150
+pasta alfredo;lettuce;1
+pasta alfredo;olive oil;50
+pasta alfredo;balsamico;30
+pumpkin soup;pumpkin;1
+pumpkin soup;coconut milk;1
+pumpkin soup;maple syrup;50
+pumpkin soup;cinnamon;1
+pumpkin soup;nutmeg;1
+pumpkin soup;veggie stock;2
+pumpkin soup;shallot;2
+pumpkin soup;garlic cloves;3
+black bean soup;black beans;1
+black bean soup;red onion;2
+black bean soup;celery;3
+black bean soup;cumin seeds;1
+black bean soup;vegan feta;100
+black bean soup;chili;1
+black bean soup;coriander;1
+vegetable curry;cauliflower;0.5
+vegetable curry;olive oil;100
+vegetable curry;mustard seeds;2
+vegetable curry;fenugreek seeds;2
+vegetable curry;ground turmeric;2
+vegetable curry;curry leaves;1
+vegetable curry;ginger;1
+vegetable curry;garlic cloves;2
+vegetable curry;spring onions;2
+vegetable curry;chili;1
+vegetable curry;coriander;1
+vegetable curry;tomatoes;2
+vegetable curry;coconut milk;1
+vegetable curry;chick peas;1
+vegetable curry;pineapple chunks;1
+vegetable curry;lemon;1
+vegetable curry;rice;200
+vegetable curry;coconut yoghurt ;200
+simple salmon;salmon;2
+simple salmon;new potatoes;16
+simple salmon;becel spread;100
+simple salmon;broccoli;1
+simple salmon;parsley;1
+simple salmon;garlic cloves;4
+chicken pot pie;mix gf floor;1
+chicken pot pie;carrots;3
+chicken pot pie;broccoli;1
+chicken pot pie;celery;3
+chicken pot pie;apple cider vinegar;20
+chicken pot pie;sugar;100
+chicken pot pie;salt ;20
+chicken pot pie;becel spread;250
+chicken pot pie;coconut fat;100
+chicken pot pie;onions;1
+chicken pot pie;potato starch;100
+chicken pot pie;chicken stock;3
+chicken pot pie;pea milk;100
+chicken pot pie;chicken thighs;4
+buckwheat pancakes;buckwheat flour ;1
+buckwheat pancakes;maple syrup;1
+buckwheat pancakes;blueberries;2
+buckwheat pancakes;cashew butter;1
+buckwheat pancakes;lemon;1
+buckwheat pancakes;baking powder;50
+buckwheat pancakes;natron ;25
